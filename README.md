@@ -1,10 +1,12 @@
-### ///
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachbit&theme=transparent)
+### 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachbit)
+
+
+
+<!--![Uploading OIG.jpg…]()
 
 
 ![img](https://github.com/kachbit/kachbit/assets/59241904/cb7b9056-ef86-47db-966f-67eeb4867dfa)
-
-<!--![Uploading OIG.jpg…]()
 ![_fd8abc70-50e1-47f0-a8b8-f221365f85ff](https://github.com/kachbit/kachbit/assets/59241904/45d25bb7-296a-4e6e-9e5b-d86be9b7ab64)
 
 **kachbit/kachbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
